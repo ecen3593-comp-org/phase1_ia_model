@@ -71,6 +71,7 @@ inline void rf_xpr_write(const uint32 value, const uint5 index)
 //             byte_count = 0;
 // //            eprintf("Default case: %d", opc);
 //             break;
+//    }
 //  //##################################################Phase 2####################################################################
 //Values to choose from (Phase 2)
             //  byte_count = 1;
